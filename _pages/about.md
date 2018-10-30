@@ -18,8 +18,4 @@ I am aiming to participate in the **development of space science missions**.
 
 ![NASA Astrophysics Data System](https://borlaff.github.io/images/ads_logo_full_light_background.png "NASA Astrophysics Data System")
 
----
-title: "NASA Astrophysics Data System"
-excerpt: "Check my papers on NASA ADS <br/><img src='https://borlaff.github.io/images/ads_logo_full_light_background.png'>"
-collection: about
----
+<img src='https://borlaff.github.io/images/ads_logo_full_light_background.png'>"

@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Alejandro S. Borlaff"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Astrophysicist with background in galactic and extragalactic research. Skilled in data analysis and statistics. Large experience with observational methods and instrumentation. I have participated in more than 50 observing nights. Aiming to participate in space science research missions."
+  location         : "Spain"
+  employer         : "Instituto de Astrofísica de Canarias"
+  googlescholar    :
+  email            : asborlaff@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -94,19 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Borlaff"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/alejandro-borlaff-716602b1/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@asborlaff"
   vine             :
   weibo            :
   xing             :

@@ -16,4 +16,4 @@ I am aiming to participate in the **development of space science missions**. {: 
 
 [Click here to obtain an updated version of my CV](https://borlaff.github.io/files/CV_Borlaff.pdf)
 
-![NASA Astrophysics Data System](https://borlaff.github.io/images/ads_logo_full_light_background.png "NASA Astrophysics Data System"){ width=40% }
+![NASA Astrophysics Data System](https://borlaff.github.io/images/ads_logo_full_light_background.png "NASA Astrophysics Data System"){:height="50%" width="50%"}

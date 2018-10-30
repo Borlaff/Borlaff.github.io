@@ -13,9 +13,9 @@ I am an PhD student at the **Instituto de Astrofísica de Canarias** (IAC Reside
 I have participated in more than 50 observing nights in four observatories, **including the commisioning, support and operations** of multiple astronomical instruments at the **William Herschel Telescope (WHT)** and the **Gran Telescopio Canarias (GTC)** at the Observatory of Roque de los Muchachos (La Palma). 
 
 I am aiming to participate in the **development of space science missions**. 
-![Editing a markdown file for a talk](/images/ads_logo_full_light_background.png)
 [Click here to obtain an updated version of my CV](https://borlaff.github.io/files/CV_Borlaff.pdf)
 
-<img src='https://borlaff.github.io/images/ads_logo_full_light_background.png'>"
+![Editing a markdown file for a talk](/images/ads_logo_full_light_background.png)
+
 
 Testiiiings

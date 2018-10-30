@@ -88,7 +88,7 @@ author:
   googlescholar    :
   email            : asborlaff@gmail.com
   uri              :
-  NASA/ADS         : "https://ui.adsabs.harvard.edu/#search/q=Borlaff&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+  NASA_ADS         : "https://ui.adsabs.harvard.edu/#search/q=Borlaff&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "www.linkedin.com/in/alejandro-borlaff/"
+  linkedin         : "alejandro-borlaff"
   orcid            : "https://orcid.org/0000-0002-5215-5958"
   pinterest        :
   soundcloud       :

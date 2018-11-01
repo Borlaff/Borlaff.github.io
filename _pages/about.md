@@ -15,7 +15,4 @@ I have participated in more than 50 observing nights in four observatories, **in
 I am aiming to participate in the **development of space science missions**. 
 [Click here to obtain an updated version of my CV](https://borlaff.github.io/files/CV_Borlaff.pdf)
 
-![NASA ADS](https://borlaff.github.io/files/ads_logo_small.png)
-
-
-Testiiiings2
+![NASA ADS](https://borlaff.github.io/files/ads_logo.png)

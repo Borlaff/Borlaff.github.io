@@ -16,4 +16,5 @@ I am aiming to participate in the **development of space science missions**.
 
 [Click here to obtain an updated version of my CV](https://borlaff.github.io/files/CV_Borlaff.pdf)
 
+**Click here to check my publications on NASA ADS**
 [![Check my publications on NASA ADS](https://borlaff.github.io/files/ads_logo_small.png)](https://ui.adsabs.harvard.edu/#search/q=Borlaff&sort=date%20desc%2C%20bibcode%20desc&p_=0)

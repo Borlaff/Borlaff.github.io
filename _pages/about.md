@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the **Instituto de Astrofísica de Canarias** (IAC Resident Astrophysicists PhD Programme 2014). I have an extensive background in **galactic and extragalactic research**. I am skilled in **data analysis** and **statistics**. My main field of work is **observational methods** and **image processing**, specially from space telescopes (Hubble Space Telescope). 
+I recently finished my PhD at the **Instituto de Astrofísica de Canarias** (IAC Resident Astrophysicists PhD Programme 2014). I have an extensive background in **galactic and extragalactic research**. I am skilled in **data analysis** and **statistics**. My main field of work is **observational methods** and **image processing**, specially from space telescopes (Hubble Space Telescope). 
 
 I have participated in more than 50 observing nights in four observatories, including the **commisioning, support and operations** of multiple astronomical instruments at the **William Herschel Telescope** (WHT) and the **Gran Telescopio Canarias** (GTC) at the Observatory of Roque de los Muchachos (La Palma). 
 

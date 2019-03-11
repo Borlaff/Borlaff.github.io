@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Borlaff2019
 date:  21-01-2019 
 venue: 'A&A'
-excerpt: 'In this work we present **ABYSS**, a new reduction of the near-infrared observations of the Hubble Ultra Deep Field with the WFC3/IR of the Hubble Space Telescope. [![ABYSS HUDF WFC3/IR](http://www.iac.es/proyecto/abyss/media/IMAGES/hudf_abyss_lite_2.png)](http://www.iac.es/proyecto/abyss/)'
+excerpt: 'In this work we present **ABYSS**, a new reduction of the near-infrared observations of the Hubble Ultra Deep Field with the WFC3/IR of the Hubble Space Telescope 2. [![ABYSS HUDF WFC3/IR](http://www.iac.es/proyecto/abyss/media/IMAGES/hudf_abyss_lite_2.png)](http://www.iac.es/proyecto/abyss/)'
 paperurl: 'https://www.aanda.org/articles/aa/pdf/2019/01/aa34312-18.pdf'
 citation: 'Borlaff, A. (2019). &quot;The missing light of the Hubble Ultra Deep Field. &quot; <i> A&A </i>. 1(1).'
 ---

@@ -10,5 +10,6 @@ citation: 'Borlaff, A. (2018). &quot;Evolution of the anti-truncated stellar pro
 ---
 
 [Download paper here](https://arxiv.org/pdf/1803.00570.pdf)
-[![](https://borlaff.github.io/files/Amubreak_z.png](https://arxiv.org/pdf/1803.00570.pdf)
+[![Check my publications on NASA ADS](https://borlaff.github.io/files/Amubreak_z.png)](https://arxiv.org/pdf/1803.00570.pdf)
+
 Recommended citation: Borlaff, A. (2018). "Evolution of the anti-truncated stellar profiles of S0 galaxies since z = 0.6 in the SHARDS survey. II. Structural and photometric evolution." <i>Astronomy & Astrophysics</i>.

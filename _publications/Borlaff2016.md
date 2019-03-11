@@ -2,7 +2,7 @@
 title: "Type-II surface brightness profiles in edge-on galaxies produced by flares "
 collection: publications
 permalink: /publication/Borlaff2016.md
-excerpt: ' <br> <a href="https://www.aanda.org/articles/aa/pdf/2016/07/aa28868-16.pdf"><img src="https://borlaff.github.io/files/flare_gif.gif" width="1000">'
+excerpt: ' <br> <a href="https://www.aanda.org/articles/aa/pdf/2016/07/aa28868-16.pdf"><img src="https://borlaff.github.io/files/Flare_gif.gif" width="1000">'
 date: 21-06-2016
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://www.aanda.org/articles/aa/pdf/2016/07/aa28868-16.pdf'

@@ -6,9 +6,8 @@ excerpt: ''
 date: 21-06-2016
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://www.aanda.org/articles/aa/pdf/2016/07/aa28868-16.pdf'
-citation: 'Borlaff et al. (2016). &quot;Type-II surface brightness profiles in edge-on galaxies produced by flares  &quot; <i>A&A</i>.'
+citation: 'Borlaff et al. (2016). &quot;Type-II surface brightness profiles in edge-on galaxies produced by flares  &quot; <i>A&A</i>.  <br> <a href="https://www.aanda.org/articles/aa/pdf/2016/07/aa28868-16.pdf"><img src="https://borlaff.github.io/files/flare_gif.gif" width="1000">'
 ---
 
 [Download paper here](https://www.aanda.org/articles/aa/pdf/2016/07/aa28868-16.pdf)
-[![Check my publications on NASA ADS](https://borlaff.github.io/files/flare_gif.gif)](https://www.aanda.org/articles/aa/pdf/2016/07/aa28868-16.pdf)
 Recommended citation: Borlaff et al. (2016). "Type-II surface brightness profiles in edge-on galaxies produced by flares " <i>A&A</i>.

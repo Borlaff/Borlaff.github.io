@@ -1,7 +1,7 @@
 ---
 title: "Formation of S0 galaxies through mergers. Evolution in the Tully-Fisher relation since z ∼ 1 "
 collection: publications
-permalink: /publication/Tapia2017
+permalink: /publication/Tapia2017.md
 excerpt: ' '
 date:  18-08-2017 
 venue: 'Astronomy & Astrophysics'

@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Personal webpage"
 title_separator          : "-"
 name                     : &name "Alejandro S. Borlaff"
-description              : &description "PhD Astrophysics"
+description              : &description "NASA Postdoctoral Fellow"
 url                      : https://borlaff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Borlaff/Borlaff.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Alejandro Borlaff"
   avatar           : "https://borlaff.github.io/images/aserrano.png"
   bio              : ""
-  location         : "Spain"
-  employer         : "Instituto de Astrofísica de Canarias"
+  location         : "California, USA"
+  employer         : "NASA Ames Research Center"
   googlescholar    : "https://scholar.google.es/citations?user=PjbZar0AAAAJ&hl=es&o"
-  email            : asborlaff@gmail.com
+  email            : a.s.borlaff@nasa.gov asborlaff@gmail.com
   uri              :
   NASA_ADS         : "https://ui.adsabs.harvard.edu/#search/q=Borlaff&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   bitbucket        :

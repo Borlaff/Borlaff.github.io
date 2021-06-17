@@ -14,7 +14,7 @@ I have participated in more than 50 observing nights in four observatories, incl
 
 I am interested in everything about space exploration, science and technologies. 
 
-[Click here to obtain an updated version of my CV](https://borlaff.github.io/files/CV_Borlaff.pdf)
+[Click here to obtain an updated version of my CV](https://borlaff.github.io/files/asborlaff_cv.pdf)
 
 **Click here to check my publications on NASA ADS**
 [![Check my publications on NASA ADS](https://borlaff.github.io/files/ads_logo_small.png)](https://ui.adsabs.harvard.edu/#search/q=Borlaff&sort=date%20desc%2C%20bibcode%20desc&p_=0)

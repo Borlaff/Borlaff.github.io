@@ -14,7 +14,5 @@ I have participated in more than 50 observing nights in four observatories, incl
 
 [Click here to obtain an updated version of my resumé](https://borlaff.github.io/files/resume_asborlaff_June2022.pdf)
 
-[Click here to obtain an updated version of my complete CV](https://borlaff.github.io/files/asborlaff_cv.pdf)
-
 **Click here to check my publications on NASA ADS**
 [![Check my publications on NASA ADS](https://borlaff.github.io/files/ads_logo_small.png)](https://ui.adsabs.harvard.edu/#search/q=Borlaff&sort=date%20desc%2C%20bibcode%20desc&p_=0)

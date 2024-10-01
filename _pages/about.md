@@ -12,7 +12,7 @@ I am a **NASA Postdoctoral Fellow** at the Ames Research Center, in California, 
 
 I have participated in more than 50 observing nights in four observatories, including the **commisioning, support and operations** of multiple astronomical instruments at the **William Herschel Telescope** (WHT) and the **Gran Telescopio Canarias** (GTC) at the Observatory of Roque de los Muchachos (La Palma), and the **NASA/DLR Stratospheric Observatory for Infrared Astronomy (SOFIA)**. 
 
-[Click here to obtain an updated version of my resumé](https://borlaff.github.io/files/resume_asborlaff_June2022.pdf)
+[Click here to obtain an updated version of my resumé](https://borlaff.github.io/files/CV_Borlaff.pdf)
 
 **Click here to check my publications on NASA ADS**
 [![Check my publications on NASA ADS](https://borlaff.github.io/files/ads_logo_small.png)](https://ui.adsabs.harvard.edu/#search/q=Borlaff&sort=date%20desc%2C%20bibcode%20desc&p_=0)
